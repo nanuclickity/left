@@ -15,8 +15,6 @@ quiet, you're making me blush.
 
 ---
 
-Testing Potion.
-
 You'll want to [get the code][left] and read the README to learn how to
 install and set up Left for your own purposes.
 
