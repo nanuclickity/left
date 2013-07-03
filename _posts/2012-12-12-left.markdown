@@ -19,7 +19,7 @@ You'll want to [get the code][left] and read the README to learn how to
 install and set up Left for your own purposes.
 
 If you have any questions, follow and ping me on Twitter- I'm
-[@holman][twitter].
+[@holman][twitter]. Testing save & publish.
 
 [jekyll]: https://github.com/mojombo/jekyll
 [zh]: http://zachholman.com
