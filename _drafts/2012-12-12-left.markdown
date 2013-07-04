@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Left
+title: Left isn't right
 category: posts
 ---
 
